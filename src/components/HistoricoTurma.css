@@ -1,0 +1,60 @@
+.historico {
+  grid-column: 1 / -1;
+  background: var(--cartao);
+  border: 1px solid var(--borda);
+  border-radius: var(--raio);
+  padding: 24px;
+  min-width: 0;
+}
+
+.historico h2 {
+  margin: 0 0 20px;
+  color: var(--primaria);
+  font-size: 1.2rem;
+}
+
+.historico__tabela {
+  overflow-x: auto;
+}
+
+.historico table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.historico th,
+.historico td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid var(--borda);
+}
+
+.historico th {
+  background: var(--fundo);
+  color: var(--texto);
+}
+
+.historico__aprovado {
+  color: var(--aprovado);
+  font-weight: 600;
+}
+
+.historico__recuperacao {
+  color: var(--recuperacao);
+  font-weight: 600;
+}
+
+.historico__reprovado {
+  color: var(--reprovado);
+  font-weight: 600;
+}
+
+.historico__vazio,
+.historico__total {
+  color: var(--texto-suave);
+  font-size: 0.9rem;
+}
+
+.historico__total {
+  margin: 16px 0 0;
+}
