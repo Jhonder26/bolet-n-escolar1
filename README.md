@@ -186,6 +186,58 @@ sessão da aplicação e é reiniciado ao recarregar a página.
 A preferência de tema permanece armazenada no navegador
 por meio do localStorage.
 
+## Evidências do funcionamento
+
+### 1. Tema escuro
+
+![Tema escuro](./evidencias/01-tema-escuro.png)
+
+### 2. Formulário inicial
+
+![Formulário inicial](./evidencias/02-formulario-inicial.png)
+
+### 3. Validação de campos vazios
+
+![Validação de campos](./evidencias/03-validacao-campos.png)
+
+### 4. Validação de notas fora do intervalo
+
+![Validação de notas](./evidencias/04-validacao-notas.png)
+
+### 5. Aluno aprovado — Média 7.0
+
+![Aluno aprovado](./evidencias/05-aprovado.png)
+
+### 6. Aluno em recuperação — Média 5.0
+
+![Aluno em recuperação](./evidencias/06-recuperacao.png)
+
+### 7. Aluno reprovado — Média 4.5
+
+![Aluno reprovado](./evidencias/07-reprovado.png)
+
+### 8. Mensagem motivacional
+
+![Mensagem motivacional](./evidencias/08-mensagem-motivacional.png)
+
+### 9. Histórico da turma
+
+![Histórico da turma](./evidencias/09-historico-turma.png)
+
+### 10. Contador por situação
+
+![Contador por situação](./evidencias/10-contador-situacao.png)
+
+### 11. Histórico completo da turma
+
+![Histórico completo](./evidencias/11-historico-completo.png)
+
+### 12. Aluno aprovado no tema escuro
+
+![Aprovado no tema escuro](./evidencias/12-aprovado-tema-escuro.png)
+
+---
+
 ## Autoavaliação
 
 As respostas da autoavaliação estão disponíveis no
